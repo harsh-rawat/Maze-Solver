@@ -4,7 +4,6 @@ import java.util.PriorityQueue;
 /**
  * A* algorithm search
  * 
- * You should fill the search() method of this class.
  */
 public class AStarSearcher extends Searcher {
 
