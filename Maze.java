@@ -6,7 +6,6 @@
  * S: Represents the initial position of the player 
  * G: Represents the goal position.
  * 
- * You do not need to change this class.
  */
 public class Maze {
 	private char[][] mazeMatrix;

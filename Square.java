@@ -1,7 +1,6 @@
 /**
  * Represents a simple square.
  * 
- * You do not need to change this class.
  */
 public class Square {
 	final public int X;

@@ -3,7 +3,6 @@
  * states to priority queues. You can add a state with the f() value to a queue
  * by adding (state,f() value) pair to the priority queue.
  * 
- * You do not need to change this class.
  */
 public class StateFValuePair implements Comparable<StateFValuePair> {
 	private State state;

@@ -4,7 +4,6 @@ import java.util.LinkedList;
 /**
  * Breadth-First Search (BFS)
  * 
- * You should fill the search() method of this class.
  */
 public class BreadthFirstSearcher extends Searcher {
 

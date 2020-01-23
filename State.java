@@ -5,8 +5,6 @@ import java.util.ArrayList;
  * the parent. In other words a (square,parent) pair where square is a Square,
  * parent is a State.
  * 
- * You should fill the getSuccessors(...) method of this class.
- * 
  */
 public class State {
 
@@ -102,8 +100,6 @@ public class State {
 	}
 
 	/**
-	 * You may not need g() value in the BFS but you will need it in A-star
-	 * search.
 	 * 
 	 * @return g() value of the current state
 	 */

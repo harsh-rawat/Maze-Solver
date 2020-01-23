@@ -1,7 +1,6 @@
 /**
  * Main Application.
  * 
- * You do not need to change this class.
  */
 public class FindPath {
 

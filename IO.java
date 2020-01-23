@@ -7,7 +7,6 @@ import java.util.ArrayList;
 /**
  * Simple I/O operations.
  * 
- * You do not need to change this class.
  */
 public class IO {
 	/**
@@ -60,8 +59,7 @@ public class IO {
 	}
 
 	/**
-	 * Output the necessary information. You do not need to write any
-	 * System.out.println() anywhere.
+	 * Output the necessary information.
 	 * 
 	 * @param maze
 	 *            the maze with a '.' in each square that is part of the

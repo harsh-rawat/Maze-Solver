@@ -1,7 +1,6 @@
 /**
  * Abstract searcher class. 
  * 
- * You do not need to change this class.
  */
 public abstract class Searcher {
 	protected Maze maze;
